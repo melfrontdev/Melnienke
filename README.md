@@ -1,5 +1,5 @@
-## Olá! me chamo Melissa Gomes 🖐️
-## Desenvolvedora Front-End 
+## Hi, i'm Melissa Gomes 🖐️
+## Front-end Developer 
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/melissa-a-b85b9b158/)](https://www.linkedin.com/in/melissa-a-b85b9b158/)
