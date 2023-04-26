@@ -28,4 +28,4 @@
 
 ## Meu amor pela programação é a paixão de criar e dar vida a ideias incríveis através do código. É a emoção de ver uma solução funcionando perfeitamente e o orgulho de saber que eu fiz isso acontecer. 
 
-![Mel GitHub stats](https://github-readme-stats.vercel.app/api?username=Melnienke&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melnienke)](https://github.com/Melnienke/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Melnienke&hide_progress=true)](https://github.com/Melnienkegithub-readme-stats)
